@@ -53,5 +53,11 @@ public class DrSeuss3a
     {
         DrSeuss3a cith = new DrSeuss3a();
         cith.catInTheHat();
+        char letter = 'a';
+        System.out.println(letter);
+        System.out.println(letter + 1);
+        System.out.println(letter - 1);
+        char letter2 = 65;
+        System.out.println(letter2);
     }
 }
